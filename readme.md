@@ -8,4 +8,11 @@ Your project should have the following requirements met:
 * A client side component written in Angular
 * At least four different interactive views for the client
 
-You may choose whatever kid of project you like within the ethical guidlines of the university. Commit your propasal to this file and we will discuss your project idea if it needs improvement.
+You may choose whatever kind of project you like within the ethical guidlines of the university. Commit your propasal to this file and we will discuss your project idea if it needs improvement.
+
+# P422 Project Proposal 
+
+1. Track the requests made by users for url.
+2. Specific dashboard for url
+3. Database will store password and username. Status coddes will show up if password or username do not match. 
+4. Dashboard to hold statuses. 
