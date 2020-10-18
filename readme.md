@@ -12,7 +12,4 @@ You may choose whatever kind of project you like within the ethical guidlines of
 
 # P422 Project Proposal 
 
-1. Track the uptime of a service.
-2. Specific dashboard for url
-3. Database will store password and username. Status coddes will show up if password or username do not match. 
-4. Dashboard to hold statuses. 
+
