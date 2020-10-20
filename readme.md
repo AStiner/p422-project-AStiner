@@ -12,4 +12,6 @@ You may choose whatever kind of project you like within the ethical guidlines of
 
 # P422 Project Proposal 
 
+Utilize Mongodb for storing of username and passwords. I will have a log in page. I will be using Angular for front in and Node.js and express for back-in. Dashboard that will hold statuses, the results of tracking uptime of a service and for a url. 
+
 
